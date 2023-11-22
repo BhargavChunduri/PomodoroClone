@@ -1,0 +1,16 @@
+.modalContainer{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    background-color: white;
+    color: tomato;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.cacelBtn{
+    border:none;
+}
